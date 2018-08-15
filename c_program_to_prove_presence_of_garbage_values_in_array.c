@@ -1,4 +1,4 @@
-//c program to find the content present in the array position whose value is not initialised by the user
+//c program to show the presence of garbage values in an array
 #include<stdio.h>
 void main()
 {
